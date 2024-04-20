@@ -29,6 +29,9 @@ INSTALLED_APPS = [
 
     # 3d party
     "rest_framework",
+
+    # local
+    "ydeciders",
 ]
 
 MIDDLEWARE = [
