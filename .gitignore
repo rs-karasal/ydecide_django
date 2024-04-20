@@ -1,0 +1,24 @@
+# confidential
+.env
+
+# python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# virtual environments
+venv/
+env/
+ENV/
+env.bak/
+
+# DB
+db.sqlite3
+
+# IDE
+.vscode/
+
+# logs and temporary files
+*.log
+tmp/
